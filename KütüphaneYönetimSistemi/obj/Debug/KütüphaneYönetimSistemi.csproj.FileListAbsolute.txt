@@ -1,0 +1,5 @@
+C:\Users\LENOVO\source\repos\KütüphaneYönetimSistemi\KütüphaneYönetimSistemi\obj\Debug\KütüphaneYönetimSistemi.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\KütüphaneYönetimSistemi\KütüphaneYönetimSistemi\obj\Debug\KitapUygulamasi.Form1.resources
+C:\Users\LENOVO\source\repos\KütüphaneYönetimSistemi\KütüphaneYönetimSistemi\obj\Debug\KütüphaneYönetimSistemi.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\KütüphaneYönetimSistemi\KütüphaneYönetimSistemi\obj\Debug\KütüphaneYönetimSistemi.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\KütüphaneYönetimSistemi\KütüphaneYönetimSistemi\obj\Debug\KütüphaneYönetimSistemi.csproj.CoreCompileInputs.cache
